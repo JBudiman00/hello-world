@@ -1,2 +1,4 @@
 # hello-world
-Learn how to use github
+
+N8DaGr8
+This is a description to change the programs code
